@@ -1,0 +1,5 @@
+base referer
+rect $class_volume.html 7,199 60,225
+rect $class_f_a_t.html 15,108 52,135
+rect $class_disk.html 15,17 52,44
+rect $class_file_name.html 91,199 157,225

@@ -1,0 +1,10 @@
+base referer
+rect $_f_s_8h.html 182,465 220,492
+rect $includes_8h.html 181,92 250,119
+rect $_volume_8h.html 133,316 194,343
+rect $_disk_8h.html 108,167 153,193
+rect $_f_a_t_8h.html 161,241 201,268
+rect $_open_file_8h.html 201,391 276,417
+rect $_file_name_8h.html 276,241 353,268
+rect $_directory_8h.html 346,316 416,343
+rect $_f_c_b_8h.html 453,167 498,193
